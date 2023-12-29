@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/ceren/ICP_Vote_Template/target/release/build/typenum-bdf45fc8a2100ec2/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/ceren/ICP_Vote_Template/target/release/build/typenum-bdf45fc8a2100ec2/out/op.rs
